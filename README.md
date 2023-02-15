@@ -1,5 +1,8 @@
 # DSA_Java
 
+Leetcode solutions : https://walkccc.me/LeetCode/problems/0001/
+
+
 Repos:
 
 LeetCode Questions CompanyWise: https://github.com/krishnadey30/LeetCode-Questions-CompanyWise
