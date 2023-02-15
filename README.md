@@ -2,6 +2,12 @@
 
 Leetcode solutions : https://walkccc.me/LeetCode/problems/0001/
 
+https://leetcode.com/discuss/general-discussion/1868912/My-Leetcode-Solutions-All-In-One
+
+https://cheonhyangzhang.gitbooks.io/leetcode-solutions/content/solutions_1_-_50.html
+
+https://guobinhit.github.io/myleetcode/
+
 
 Repos:
 
