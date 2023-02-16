@@ -8,6 +8,8 @@ https://cheonhyangzhang.gitbooks.io/leetcode-solutions/content/solutions_1_-_50.
 
 https://guobinhit.github.io/myleetcode/
 
+https://aaronice.gitbook.io/lintcode/
+
 
 Repos:
 
