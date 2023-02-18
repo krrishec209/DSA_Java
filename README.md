@@ -12,7 +12,9 @@ https://aaronice.gitbook.io/lintcode/
 
 https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
 
-  https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/
+https://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/
+
+SDE Sheet :  https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/
 
 
 Repos:
