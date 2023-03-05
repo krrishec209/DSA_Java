@@ -25,6 +25,8 @@ Curated List of Top 75 LeetCode : https://gist.github.com/krishnadey30/88c4e2f60
 
 450 Sheet Solutions : https://github.com/mrpkdeveloper/450-DSA-Questions/tree/main/Java
 
+Company Frequency : https://github.com/xizhengszhang/Leetcode_company_frequency
+
 System : https://github.com/donnemartin/system-design-primer
 
 
