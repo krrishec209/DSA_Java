@@ -53,3 +53,16 @@ LEVEL 3:
 🔴 Maximum difference of zeros and ones in binary string
 🔴 Count digit groupings of a number
 
+
+
+
+✅ For DP, practice is the only way forward to success but before that, you should definitely check out the below playlists on YouTube to cover all the important concepts of DP.
+
+📍 Striver: https://bit.ly/3GA4vN0
+📍 Aditya Verma: https://bit.ly/40YPD2E
+📍 Tushar Roy: https://bit.ly/3GueIKI
+📍 Love Babbar: https://bit.ly/3GxPds4
+📍 Techdose: https://bit.ly/43kv0j7
+
+PS: Choose the one playlist that you really like and stick to it. Once done with all the videos, make sure to practice, practice and practice!🌻
+
