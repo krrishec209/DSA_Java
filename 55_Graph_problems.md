@@ -45,4 +45,54 @@ Here are they:
 
 The rest 28 problems are in the comments👇
 
+The next 28 problems(Like this comment please):
+
+[4] Dijsktra’s
+
+1. https://leetcode.com/problems/path-with-maximum-minimum-value/
+2. https://leetcode.com/problems/network-delay-time/
+3. https://leetcode.com/problems/path-with-maximum-probability/
+4. https://leetcode.com/problems/path-with-minimum-effort/
+5. https://leetcode.com/problems/cheapest-flights-within-k-stops/
+
+
+[5] Union Find
+
+1. https://leetcode.com/problems/connecting-cities-with-minimum-cost/
+2. https://leetcode.com/problems/largest-component-size-by-common-factor/
+3. https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/
+4. https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/
+5. https://leetcode.com/problems/friend-circles/
+6. https://leetcode.com/problems/redundant-connection/
+7. https://leetcode.com/problems/redundant-connection-ii/description/ 
+8. https://leetcode.com/problems/satisfiability-of-equality-equations/
+9. https://leetcode.com/problems/number-of-operations-to-make-network-connected/
+10. https://leetcode.com/problems/minimize-malware-spread/description/
+
+[6] Minimum Spanning Tree
+
+1. https://leetcode.com/problems/connecting-cities-with-minimum-cost/
+2. https://leetcode.com/problems/min-cost-to-connect-all-points/
+
+
+[7] Topological Sort
+
+1. https://leetcode.com/problems/course-schedule/
+2. https://leetcode.com/problems/course-schedule-ii/
+3. https://leetcode.com/problems/sequence-reconstruction/
+4. https://leetcode.com/problems/alien-dictionary/
+
+[8] Floyd Warshall
+
+1. https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/
+2. https://leetcode.com/problems/network-delay-time/
+
+
+[9] Graph coloring/Bipartition
+
+1. https://leetcode.com/problems/possible-bipartition/ 
+2. https://leetcode.com/problems/is-graph-bipartite/
+
+
+
 
