@@ -12,8 +12,9 @@ It describes the best-case scenario. \Theta notation frames the time needed by a
 ![image](https://github.com/krrishec209/DSA_Java/assets/32902341/81e97836-13c0-4738-8dd6-dcd2cf0e7b00)
 
 
+Some general time complexities are listed below with the input range for which they are accepted in competitive programming: 
 
-
+![image](https://github.com/krrishec209/DSA_Java/assets/32902341/0995e790-7f26-41ae-b2e5-38704665aa9b)
 
 
 
