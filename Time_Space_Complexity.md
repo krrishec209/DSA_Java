@@ -16,6 +16,16 @@ Because time complexity is an asymptotic function calculated from the size of in
 It describes the best-case scenario. \Theta notation frames the time needed by an upper bound and a lower bound. It narrates the average-case scenario.
 
 
+Space-Time Complexity Tradeoffs
+All efforts made by analyzing time and space complexity lead to the algorithm’s efficiency.
+
+But, when we can say that an algorithm is efficient? The answer seems to be obvious: it should be fast, and it should take the least amount of memory possible.
+
+Unfortunately, in algorithmics, space and time are like two separate poles. Increasing speed will most often lead to increased memory consumption and vice-versa.
+
+On the one side, we have merge sort, which is extremely fast but requires a lot of memory. On the other side, we have bubble sort, a slow algorithm but one that occupies minimal space. There are also some balanced ones like in-place heap sort. Its speed and space usage are not the best, but they’re acceptable.
+
+
 ![image](https://github.com/krrishec209/DSA_Java/assets/32902341/81e97836-13c0-4738-8dd6-dcd2cf0e7b00)
 
 
@@ -23,6 +33,10 @@ Some general time complexities are listed below with the input range for which t
 
 ![image](https://github.com/krrishec209/DSA_Java/assets/32902341/0995e790-7f26-41ae-b2e5-38704665aa9b)
 
+
+![image](https://github.com/krrishec209/DSA_Java/assets/32902341/e3acb5f7-a361-49d4-8196-57ec831e9c11)
+
+![image](https://github.com/krrishec209/DSA_Java/assets/32902341/c1f8f7ff-74b3-4a96-90be-d4635b4515dc)
 
 
 
@@ -43,3 +57,5 @@ https://www.freecodecamp.org/news/big-o-notation-why-it-matters-and-why-it-doesn
 https://www.cs.cornell.edu/courses/cs312/2004fa/lectures/lecture16.htm
 
 https://www.baeldung.com/cs/space-complexity
+
+https://www.bigocheatsheet.com/
