@@ -77,6 +77,7 @@ Below is a table showcasing the similarities between time complexity and space c
 
 ![image](https://github.com/krrishec209/DSA_Java/assets/32902341/b8a9f587-be5b-4903-9030-73a2e151bed3)
 
+![image](https://github.com/krrishec209/DSA_Java/assets/32902341/c1377845-28e9-4137-af73-6b4efeac158e)
 
 
 
