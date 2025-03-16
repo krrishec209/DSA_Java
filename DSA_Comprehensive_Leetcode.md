@@ -222,4 +222,6 @@ Hope this will help you a bit to ace your next coding interviews or competitive 
 
 Thank you guys. I am from non CS background(studying Materials Enginnering as Major at Uni) and don't feel bad if you are also from non CS background as end of the day your curiosity and persistance is all it matters. I am quite new to this platform(CI platform to be specific) and more used to CP platforms. You guys are the best community i have ever seen. Cheers! Happy Acing Interviews!
 
+![image](https://github.com/user-attachments/assets/ce25b391-d42f-404d-99fd-c49f779c8c40)
+
 https://leetcode.com/discuss/post/494279/comprehensive-data-structure-and-algorit-tdez/
