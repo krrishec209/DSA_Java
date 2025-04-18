@@ -168,4 +168,56 @@ Bookmark this. Share this. And build muscle memory.
 
 https://www.linkedin.com/posts/sai-ram-somanaboina_dsa-cheatsheet-i-wish-i-had-when-i-was-preparing-activity-7317549499638239232-mYKS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARSzbgBGEbWHnTkxyPnkFaeZcnK-pW0lqg
 
+*****************
+
+If you don’t want to waste 100s of hours doing thousands of Leetcode problems and learn with quality instead of quantity...
+
+Spend time reading these great blogs, I wish I had read in my junior year (this will help you save time and effort and gain maximum clarity for concepts)
+
+► The Leetcode Guide
+-- https://lnkd.in/gCtVtdFk
+
+► The famous DSA pattern series: 
+– Backtracking Patterns: https://lnkd.in/g9csxVa4
+–Sliding Window patterns: https://lnkd.in/gjatQ5pK
+–Sliding Windows on Strings Pattern: https://lnkd.in/gX8ebtnb
+–Two Pointers Patterns: https://lnkd.in/gBfWgHYe
+–Substring Problem Patterns: https://lnkd.in/gdGtE72g
+–Tree Patterns: https://lnkd.in/gKja_D5H
+–Tree Iterative Traversal: https://lnkd.in/gGpXjHt5
+–Dynamic Programming Patterns: https://lnkd.in/gbpRU46g
+–Binary Search Patterns: https://lnkd.in/gKEm_qUK
+–Monotonic Stack Patterns: https://lnkd.in/gdYahWVN
+–Bit Manipulation Patterns: https://lnkd.in/gkxVZTXU
+–Graph Patterns: https://lnkd.in/gKE6w7Jb
+–DFS + BFS Patterns (1): https://lnkd.in/gPgpsgaQ
+–DFS + BFS Patterns (2): https://lnkd.in/gd4ekfQe
+
+►The System design series:
+-- https://lnkd.in/eAuYbyq6)
+-- https://lnkd.in/eYydYNwt)
+-- https://lnkd.in/e8nuGbCc
+-- https://lnkd.in/eTDxTsEk
+-- https://lnkd.in/ewSxwX5r
+-- https://lnkd.in/e7XcCyyx
+-- https://lnkd.in/eCZ5becF
+-- https://lnkd.in/egeT-CnM
+-- https://lnkd.in/evPJTahK
+-- https://lnkd.in/eBZ65JPB
+-- https://lnkd.in/ezyZ_KV4
+-- https://lnkd.in/ezdXaYRf
+-- https://lnkd.in/eKzr3UaZ
+-- https://lnkd.in/eBrfYfHs
+-- https://lnkd.in/eK4t4hiz
+-- https://lnkd.in/eYYrzaBv
+-- https://lnkd.in/ezasHSBX
+-- https://lnkd.in/e88uS54e
+-- https://lnkd.in/efmGvj3g
+-- https://lnkd.in/e9wTGvRb
+-- https://lnkd.in/e99MFJuW
+-- https://lnkd.in/eACzjgkg
+-- https://lnkd.in/eCifqhx2
+-- https://lnkd.in/ewPu-N55
+
+https://www.linkedin.com/posts/anshul-chhabra-46ba9b113_if-you-dont-want-to-waste-100s-of-hours-activity-7318629034832064512-HpDx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARSzbgBGEbWHnTkxyPnkFaeZcnK-pW0lqg
 
