@@ -139,3 +139,44 @@ https://lnkd.in/d7s54bvW
 
 
 https://www.linkedin.com/posts/ankur-dhawan01_coding-love-dsa-activity-6944176059261022209-i5QB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARSzbgBGEbWHnTkxyPnkFaeZcnK-pW0lqg
+
+*************
+
+Solving some odd 300 Leetcode problems helped me secure an offer from Google🔥
+
+But here’s what most SDEs trying to switch to top PBCs like Google, Amazon, etc, don't get → 
+
+1️⃣ More number of problems ≠ More offers and opportunities.
+2️⃣ Cracking DSA rounds ≠ Clearing behavioral rounds like Googlyness
+3️⃣ Depth of understanding is just as important as being able to communicate trade-offs. 
+
+So, sharing here 20 LeetCode questions that helped me significantly boost my problem-solving skills 👇
+
+📌 Merge Intervals
+📌 Koko Eating Bananas
+📌 Search in Rotated Sorted Array
+📌 Detect a Cycle in Linked List
+📌 Word Search II
+📌 Gas Station
+📌 Sliding Window Maximum
+📌 Coin Change
+📌 Word Break
+📌 Edit Distance
+📌 Trapping Rainwater
+📌 Largest Rectangle in a Histogram
+📌 Rod Cutting
+📌 Binary Tree Maximum Path Sum
+📌 Number of Distinct Islands
+📌 Rotten Oranges
+📌 Course Schedule II
+📌 Pacific Atlantic Water Flow
+📌 Cheapest Flights Within K Stops
+📌 Min Cost to Connect All Points
+
+Try to solve these problems and yes, keep these things in mind too → 
+
+🔹 It’s always Quality over quantity (Few problems but deep understanding)
+🔹 Pattern recognition is crucial.
+🔹 Mock Interviews make a lot of difference.
+
+https://www.linkedin.com/posts/sai-sree-ram-putta_sponsoredpost-leetcode-google-activity-7349278776863641600-7DDW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARSzbgBGEbWHnTkxyPnkFaeZcnK-pW0lqg
